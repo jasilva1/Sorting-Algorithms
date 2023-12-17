@@ -11,3 +11,4 @@ Sorting Algorithms with Matplotlib Animation
 5. Quick Sort
 
 Finally, Watch the algorithm work via the plot animation!!
+![Quick Sort](size100Quicksortgif.gif)
