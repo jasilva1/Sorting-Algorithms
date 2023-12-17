@@ -14,3 +14,4 @@ Finally, Watch the algorithm work via the plot animation!!
 
 ![size100Quicksortgif](https://github.com/jasilva1/Sorting-Algorithms/assets/134011187/ee3d72d0-5b91-4773-bf26-273f27614028)
 
+![Selection_sort](https://github.com/jasilva1/Sorting-Algorithms/assets/134011187/6b8ac46d-fc7d-4457-92de-abcb8042fd1d)
